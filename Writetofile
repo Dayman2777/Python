@@ -1,0 +1,3 @@
+# Write to a file
+open("update_log2.txt", "w") as file:
+"update_log2.txt".
