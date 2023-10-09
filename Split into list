@@ -1,0 +1,4 @@
+approved_users = "elarson,bmoreno,tshah,sgilmore,eraab"
+print("before .split():", approved_users)
+approved_users = approved_users.splt(",")
+print("after .split():", approved_users)
